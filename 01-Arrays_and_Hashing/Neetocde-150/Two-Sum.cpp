@@ -1,3 +1,10 @@
+/*
+    *Problem:Two-Sum (Leetcode Problem-1)
+    *Time Complexity : O(N)
+    *Space Complexity : O(N)
+    *Strategy: Used Hash-Map instead of Brute force to reduce the time complexity.Go through the whole array in a worst case 
+    scenario to find which 2 numbers add up to the target.
+    */
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
