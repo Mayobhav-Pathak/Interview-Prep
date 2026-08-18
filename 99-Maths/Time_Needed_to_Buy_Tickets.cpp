@@ -3,8 +3,8 @@
  *Time Complexity: O(N)
  *Space Complexity: O(1)
  *Strategy:The people in fromt of the given person(kth) will be able to buy atmost tickets[k] tickets , 
-           while those behind will be able to buy atmost tickets[k]-1 tickets. 
-           This gives us an highly optimised mathematical solution to the problem.
+    while those behind will be able to buy atmost tickets[k]-1 tickets. 
+    This gives us an highly optimised mathematical solution to the problem.
 */ 
 class Solution {
 public:
