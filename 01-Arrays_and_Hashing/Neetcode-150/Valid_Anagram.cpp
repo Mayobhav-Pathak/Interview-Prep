@@ -3,7 +3,7 @@
   *Time Complexity:O(n)
    *Space Complexity: O(1)
    Strategy: Store the letters and their frequency for both string in a hash map . Increase the frequency if the letter is in string s and decrease the frequency if the letter is in string t.
-             If at the end , all frequencies are 0 , they are an anagram , else not.
+            If at the end , all frequencies are 0 , they are an anagram , else not.
   */
 class Solution {
 public:
