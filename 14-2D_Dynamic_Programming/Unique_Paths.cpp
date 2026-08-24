@@ -5,7 +5,7 @@ public:
         long int c=1;
         int k=(m+n-2);
         if((m-1)>=(n-1)){
-            int l=m;
+           int l=m;
         for(int i=1 ; i<n ; i++){
           c = c*(k-i+1);
           c /=i;
