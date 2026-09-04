@@ -1,7 +1,7 @@
 /*
-*Problem - Valid Perfect Square (Leetcode Problem -367)
-*Time complexity - O(log n)
-*Space Complexity - O(1)
+ *Problem - Valid Perfect Square (Leetcode Problem -367)
+ *Time complexity - O(log n)
+ *Space Complexity - O(1)
 */
 class Solution{
     public:
